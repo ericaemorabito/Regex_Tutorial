@@ -4,13 +4,14 @@ Regular expressions are a sequence of characters we use to specify a search patt
 
 ## Table of Contents
 
-- [Match an Email Regex](#match-an-email-regex)
 - [Regex Components](#regex-components)
 - [Anchors](#anchors)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expression](#bracket-expression)
 - [Character Class](#character-class)
 - [Quantifiers](#quantifiers)
+- [Conclusion](#conclusion)
+- [Author](#author)
 
 # Regex Components
 
